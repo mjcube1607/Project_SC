@@ -1,0 +1,6 @@
+•	Planned, designed, and implemented a simple web-based application development that met the most advanced secure coding practices. 
+
+•	Provided abuse cases and threat modelling for the developed web-based application.
+
+•	Performed a secure code review and identified common weaknesses (CWE) for another web-based application.
+
